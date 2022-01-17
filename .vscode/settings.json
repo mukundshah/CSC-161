@@ -5,6 +5,7 @@
 		"statusBarItem.hoverBackground": "#327e36"
 	},
 	"files.associations": {
-		"random": "cpp"
+		"random": "cpp",
+		"iostream": "cpp"
 	}
 }
