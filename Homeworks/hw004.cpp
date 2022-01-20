@@ -1,5 +1,5 @@
 // Calculate the weight of a mass on earth and moon.
-// The acceleration due to gravitty for earth is g = 9.8 and
+// The acceleration due to gravity for earth is g = 9.8 and
 // g = 1.67. Use the concept of default argument.
 
 #include <iostream>
@@ -27,7 +27,7 @@ int main(){
 
     cout << "Enter mass of object in kg: " ;
     cin  >> mass;
-    cout << "The dafult for g is 9.8. Do you want to change it? (y/N): ";
+    cout << "The default for g is 9.8. Do you want to change it? (y/N): ";
     cin >> choice;
 
     switch (choice){
